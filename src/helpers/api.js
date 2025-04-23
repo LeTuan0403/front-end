@@ -1,5 +1,5 @@
 const axios = require('axios') 
-const backEnd = 'http://localhost:1108/vocab/'
+const backEnd = 'https://back-end-1-ulji.onrender.com/vocab/'
 
 // Function to get all vocabulary items from the backend
 export const ViewALLVocabs = async () => {
